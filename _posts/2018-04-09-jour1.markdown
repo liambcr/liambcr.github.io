@@ -1,0 +1,25 @@
+---
+layout: post
+title: premier jour
+date:   2018-04-9
+categories: jekyll update
+---
+résumé du `premier jour` dans l'entreprise.
+
+création d'un compte [GitHub][github] et d'une clé SSH. Ecriture d'interface en ligne de commande avec `Terminal`. Pour modifier un fichier sur `GitHub` grâce à [Atom][atom]
+Sur `Atom`:
+
++ modifier le nom du fichier
++ save
++ add+commit
++ "changement de nom"
++ save
++ push
++ mdp key
+
+Sur GitHub
+
++ refresh page
+
+[github]:https://github.com/
+[Atom]:https://atom.io/
