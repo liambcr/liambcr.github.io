@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Stage en informatique
+title: projet stage
 email: liam.bokr@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
   suivi du stage d'observation de troisième en informatique
@@ -23,7 +23,7 @@ github_username: liambcr
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
