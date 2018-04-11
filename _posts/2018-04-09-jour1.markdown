@@ -13,7 +13,7 @@ Sur `Atom`:
 + modifier le nom du fichier
 + save
 + add+commit
-+ "changement de nom"
++ click on "changement de nom"
 + save
 + push
 + mdp key
