@@ -13,7 +13,7 @@ réouvrir un fichier avec `Terminal` sur Jekyll:
 
 énumération des différents langage client (exemple: firefox), serveur web et base de données:
 
-+ langage client (fronthaul)
++ langage client (frontend):
   + HTML/XML
   + JavaScript    
   + objective-c (ios)
@@ -21,7 +21,7 @@ réouvrir un fichier avec `Terminal` sur Jekyll:
   + markdown
   + CSS
 
-+ langage serveur web(backhaul)
++ langage serveur web(backend):
   + Java
   + C
   + JavaScript
