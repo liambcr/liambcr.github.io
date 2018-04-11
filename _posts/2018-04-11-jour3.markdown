@@ -4,4 +4,15 @@ title: troisième jour
 date:   2018-04-11
 categories: jekyll update
 ---
-résumé du `troisième` jour dans l'entreprise:
+résumé du `troisième` jour dans l'entreprise :
+
+réouvrir un fichier avec `Terminal` sur Jekyll:
+
++ cd (name of your directory)
++ bundle exec Jekyll serve
+
+énumération des différents lagage client (exemple: firefox), serveur web et base de données:
+
++ langage client
+  + HTML
+  + JavaScript
