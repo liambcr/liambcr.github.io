@@ -10,7 +10,7 @@ création d'un compte [GitHub][github] et d'une clé SSH. Ecriture d'interface e
 
 Sur `Atom`:
 
-+ modifier le nom du fichier
++ edit file name
 + save
 + add+commit
 + click on "changement de nom"
