@@ -13,6 +13,28 @@ réouvrir un fichier avec `Terminal` sur Jekyll:
 
 énumération des différents lagage client (exemple: firefox), serveur web et base de données:
 
-+ langage client
-  + HTML
-  + JavaScript 
++ langage client (fronthaul)
+  + HTML/XML
+  + JavaScript    
+  + objective-c (ios)
+  + flash
+  + markdown
+  + CSS
+
++ langage serveur web(backhaul)
+  + Java
+  + C
+  + JavaScript
+  + PHP
+  + perl
+  + ruby
+  + Asp/Asp.Net
+  + C++
+  + Python
+  + Jsp
+
++ langage base de données (database)
+  + C
+  + C++
+  + SQL  
+ la base de données peut être codée avec pleins de langage mais le principal reste SQL
