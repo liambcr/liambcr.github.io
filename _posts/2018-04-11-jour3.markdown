@@ -16,4 +16,3 @@ réouvrir un fichier avec `Terminal` sur Jekyll:
 + langage client
   + HTML
   + JavaScript
-  + Java 
