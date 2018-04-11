@@ -11,7 +11,7 @@ réouvrir un fichier avec `Terminal` sur Jekyll:
 + cd (name of your directory)
 + bundle exec Jekyll serve
 
-énumération des différents lagage client (exemple: firefox), serveur web et base de données:
+énumération des différents langage client (exemple: firefox), serveur web et base de données:
 
 + langage client (fronthaul)
   + HTML/XML
@@ -37,4 +37,4 @@ réouvrir un fichier avec `Terminal` sur Jekyll:
   + C
   + C++
   + SQL  
-la base de données peut être codée avec pleins de langage mais le principal reste SQL
+ la base de données peut être codée avec pleins de langage mais le principal reste SQL
