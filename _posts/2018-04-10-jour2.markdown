@@ -21,7 +21,7 @@ exemples:
 
 Une liste sur HTML commence par l'étiquette "<ul>". Chaque élément de la liste commence par la balise <li> alors qu'avec `jekyll markdown`, il suffit de mettre des "+" a chaque ligne de la liste.
 exemple:
-"+" France; "+" USA   
+"+"(espace) France;(à la ligne) "+"(espace) USA   
 devient:
 + France
 + USA
