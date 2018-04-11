@@ -37,4 +37,4 @@ réouvrir un fichier avec `Terminal` sur Jekyll:
   + C
   + C++
   + SQL  
- la base de données peut être codée avec pleins de langage mais le principal reste SQL
+  la base de données peut être codée avec pleins de langage mais le principal reste SQL
