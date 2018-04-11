@@ -21,7 +21,7 @@ réouvrir un fichier avec `Terminal` sur Jekyll:
   + markdown
   + CSS
 
-+ langage serveur web(backend)
++ langage serveur web(backend)       
   + Java
   + C
   + JavaScript
@@ -34,5 +34,6 @@ réouvrir un fichier avec `Terminal` sur Jekyll:
   + Jsp
 
 + langage base de données (database)
-  + SQL (principalement)
+  + SQL
+
  la base de données peut être codée avec pleins de langage mais le principal reste SQL
