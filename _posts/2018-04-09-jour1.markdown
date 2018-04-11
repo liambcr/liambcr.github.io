@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 résumé du `premier jour` dans l'entreprise:
 
-création d'un compte [GitHub][github] et d'une clé SSH. Ecriture d'interface en ligne de commande avec `Terminal`. Modifier un fichier sur `GitHub` grâce à [Atom][atom]
+création d'un compte [GitHub][github] et d'une clé SSH. Ecriture d'interface en ligne de commande avec `Terminal`. Modifier un fichier sur `GitHub` grâce à [Atom][atom]:
 
 Sur `Atom`:
 
