@@ -15,11 +15,11 @@ Pour créer une GitHub page:
 
 le langage balise HTML modifie le site internet mais n'est pas le plus simple d'utilisation.
 exemples:
-+ l'élément "<html>" est l'élément racine d'une page html
++ l'élément "<html>" est l'élément racine d'une page HTML
 + l'élément "<h1>" définit une grande police
 + l'élément "<p>" définit un paragraphe (etc...)
 
-Une liste sur HTML commence par l'étiquette "<ul>". Chaque élément de la liste commence par la balise <li> alors qu'avec `jekyll markdown`, il suffit de mettre des "+" a chaque ligne de la liste.
+Une `liste HTML` commence par l'étiquette "<ul>". Chaque élément de la liste commence par la balise `<li>` alors qu'avec `jekyll markdown`, il suffit de mettre des ``"+"` a chaque ligne de la liste.
 exemple:
 "+"(espace) France (à la ligne) "+"(espace) USA   
 devient:
