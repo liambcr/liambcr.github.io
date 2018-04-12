@@ -20,6 +20,11 @@ sur Terminal:
 différentes parties dans le backend: "back" et "infra"(back +)
 
 + infra: hébergement
-+ back: intelligence du site 
++ back: intelligence du site
 
 (l'infra héberge le "back" et le front)
+
+langage du back + : Ruby
+
+Toutes les données sont automatiquement physique.
+l'"infra" (back+) est un hebergeur. Il heberge des données, le "back" et le front.
