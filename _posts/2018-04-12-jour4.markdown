@@ -4,30 +4,30 @@ title: quatrième jour
 date:   2018-04-12
 categories: jekyll update
 ---
-résumé du `quatrième` jour dans l'entreprise :
+Résumé du `quatrième` jour dans l'entreprise :
 
-récupération d'un fichier github supprimé:
+Récupération d'un fichier github supprimé:
 
-sur github:
+Sur github:
 
 + clone or download
 + copy (cmd+c) URL
 
-sur Terminal:
+Sur Terminal:
 + git clone
 + past (cmd+V)
 
-différentes parties dans le backend: "back" et "infra"(back +)
+Différentes parties dans le backend: "back" et "infra"(back +)
 
 + infra: hébergement
 + back: intelligence du site
 
 (l'infra héberge le "back" et le front)
 
-langage du back + : Ruby
+Langage du back + : Ruby
 
 Toutes les données sont automatiquement physique.
 
-l'"infra" (back+) est un hebergeur. Il heberge des données, le "back" et le front.
+L' "infra" (back+) est un hebergeur. Il heberge des données, le "back" et le front.
 
 Pour une spécialité (développeur par exemple) il existe plusieurs caractéristiques à une fonction: tout les développeurs ne codent pas de la même façon, ils n'utilisent pas tous le même langage informatique.
