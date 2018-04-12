@@ -27,4 +27,5 @@ différentes parties dans le backend: "back" et "infra"(back +)
 langage du back + : Ruby
 
 Toutes les données sont automatiquement physique.
+
 l'"infra" (back+) est un hebergeur. Il heberge des données, le "back" et le front.
