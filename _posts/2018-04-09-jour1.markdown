@@ -2,7 +2,7 @@
 layout: post
 title: premier jour
 date:   2018-04-9
-categories: jekyll update
+categories: stage
 ---
 Résumé du `premier jour` dans l'entreprise:
 
