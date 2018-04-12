@@ -30,4 +30,4 @@ Toutes les données sont automatiquement physique.
 
 l'"infra" (back+) est un hebergeur. Il heberge des données, le "back" et le front.
 
-pour une spécialité (développeur par exemple) il existe plusieurs caractéristiques à une fonction: tout les développeurs ne codent pas de la même façon, ils n'utilisent pas tous le même langage informatique.
+Pour une spécialité (développeur par exemple) il existe plusieurs caractéristiques à une fonction: tout les développeurs ne codent pas de la même façon, ils n'utilisent pas tous le même langage informatique.
