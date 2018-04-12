@@ -16,3 +16,10 @@ sur github:
 sur Terminal:
 + git clone
 + past (cmd+V)
+
+différentes parties dans le backend: "back" et "infra"(back +)
+
++ infra: hébergement
++ back: intelligence du site 
+
+(l'infra héberge le "back" et le front)
