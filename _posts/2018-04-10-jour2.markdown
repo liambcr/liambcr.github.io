@@ -4,23 +4,25 @@ title: deuxieme jour
 date:   2018-04-10
 categories: jekyll update
 ---
-résumé du `deuxieme` dans l'entreprise:
+Résumé du `deuxieme` dans l'entreprise:
 
-création d'une `GitHub page` avec le site [GitHub Page][githubpage].
+Création d'une `GitHub page` avec le site [GitHub Page][githubpage].
 Pour créer une GitHub page:
 + create repository (GitHub + new repository)
 + choose git client using (Terminal)
 + copy instruction
 + go to https://username.github.io. (now, this is your website)
 
-le langage balise HTML modifie le site internet mais n'est pas le plus simple d'utilisation.
-exemples:
+Le langage balise HTML modifie le site internet mais n'est pas le plus simple d'utilisation.
+Exemples:
 + l'élément "<html>" est l'élément racine d'une page HTML
 + l'élément "<h1>" définit une grande police
 + l'élément "<p>" définit un paragraphe (etc...)
 
 Une `liste HTML` commence par l'étiquette "<ul>"("<...>"ouvre un corps et </...> ferme le corps). Chaque élément de la liste commence par la balise `<li>` alors qu'avec `jekyll markdown`, il suffit de mettre des `"+"` a chaque ligne de la liste.
-exemple:
+
+Exemple:
+
 "+"(espace) France (à la ligne) "+"(espace) USA   
 devient:
 + France
