@@ -12,7 +12,7 @@ Sur `Atom`:
 
 + edit file name
 + save
-+ add+commit
++ add + commit
 + click on "changement de nom"
 + save
 + push
