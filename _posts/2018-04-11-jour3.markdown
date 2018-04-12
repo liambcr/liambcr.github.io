@@ -4,16 +4,16 @@ title: troisième jour
 date:   2018-04-11
 categories: jekyll update
 ---
-résumé du `troisième` jour dans l'entreprise :
+Résumé du `troisième` jour dans l'entreprise :
 
-réouvrir un fichier avec `Terminal` sur Jekyll (pour poste local):
+Réouvrir un fichier avec `Terminal` sur Jekyll (pour poste local):
 
 + cd (name of your directory)
 + bundle exec Jekyll serve
 
-énumération des différents langage client (exemple: firefox), serveur web et base de données:
+Énumération des différents langage client (exemple: firefox), serveur web et base de données:
 
-+ langage client (frontend)
++ Langage client (frontend)
   + HTML/XML
   + JavaScript    
   + objective-c (ios)
@@ -21,7 +21,7 @@ réouvrir un fichier avec `Terminal` sur Jekyll (pour poste local):
   + markdown
   + CSS
 
-+ langage serveur web(backend)       
++ Langage serveur web(backend)       
   + Java
   + C
   + JavaScript
@@ -33,7 +33,7 @@ réouvrir un fichier avec `Terminal` sur Jekyll (pour poste local):
   + Python
   + Jsp
 
-+ langage base de données (database)
++ Langage base de données (database)
   + SQL
 
 (la base de données peut être codée avec pleins de langage mais le principal reste SQL)
