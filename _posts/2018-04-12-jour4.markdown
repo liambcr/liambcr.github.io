@@ -5,3 +5,14 @@ date:   2018-04-12
 categories: jekyll update
 ---
 résumé du `quatrième` jour dans l'entreprise :
+
+récupération d'un fichier github supprimé:
+
+sur github:
+
++ clone or download
++ copy (cmd+c) URL
+
+sur Terminal:
++ git clone
++ past (cmd+V)
